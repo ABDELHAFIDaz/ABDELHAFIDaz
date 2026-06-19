@@ -1,20 +1,99 @@
-<h1 align="center">Hi 👋, I'm ABD ELHAFID AZLIGUE</h1>
-<h3 align="center">A fullstack developer from morocco</h3>
+# Hi 👋, I'm Abd Elhafid Azligue
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhafidaz&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhafidaz" /> </p>
+### Full Stack Developer | Laravel • React • Python • C
 
-- 📫 How to reach me **abdelhafidazligue162@gmail.com**
+I'm a Full Stack Development student passionate about building modern web applications, solving problems, and continuously learning new technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abd-elhafid-azligue-21111334b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abd-elhafid-azligue-21111334b/" height="30" width="40" /></a>
-<a href="https://discord.gg/hafid_azligue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hafid_azligue" height="30" width="40" /></a>
-</p>
+Currently studying at **YouCode**, where I'm developing practical experience in both frontend and backend development while working on real-world projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhafidaz&show_icons=true&locale=en&layout=compact" alt="abdelhafidaz" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelhafidaz&show_icons=true&locale=en" alt="abdelhafidaz" /></p>
+* 🎓 Full Stack Development Student at YouCode
+* ⚡ Enjoy turning ideas into functional applications
 
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+
+### Backend
+
+* PHP
+* Laravel
+* MySQL
+
+### Programming Languages
+
+* JavaScript
+* PHP
+* Python
+* C
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* REST APIs
+* JWT Authentication
+
+### Architecture & Concepts
+
+* Object-Oriented Programming (OOP)
+* MVC Architecture
+* Design Patterns
+* Agile & Scrum
+
+---
+
+## 📂 Featured Projects
+
+### CodeFolio
+
+Full-stack portfolio management platform built with React and Laravel.
+
+**Features**
+
+* Public portfolio interface
+* JWT-secured admin dashboard
+* Project and skills management
+* Protected routes
+* REST API architecture
+
+### Virtual Workspace
+
+Collaborative virtual workspace web application designed to improve user organization and interaction.
+
+### Eventify
+
+Event management platform that allows users to create, organize, and register for events.
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🌍 Languages
+
+* Arabic — Native
+* English — B1
+* French — A1
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [abdelhafidazligue162@gmail.com](mailto:abdelhafidazligue162@gmail.com)
+* 💼 GitHub: https://github.com/ABDELHAFIDaz
+
+---
+
+> "Continuous learning and building practical solutions one project at a time."
